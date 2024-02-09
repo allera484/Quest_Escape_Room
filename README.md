@@ -2,7 +2,7 @@
 
 We develop an “Escape Room” game. Implement Python code, manage errors, and test the game to ensure robustness. Each room presents unique challenges. The goal of the game was to escape from the starting room (Game Room) to the end (Outside). 
 
-We game incorporates various data structures, specifically dictionaries and lists, to define game rooms, paths, and items.
+We incorporates various data structures, specifically dictionaries and lists, to define game rooms, paths, and items.
 The game uses a Python dictionary to store the game state which is updated when progress is made, such as a key being collected.
 Flow control (if, elif, else statements) has been utilized to create game logic, for example, to determine what happens when a player makes certain choices or interacts with game items.
 The code appropriately uses loops where needed, such as for repeating game actions until the player reaches a certain outcome.
